@@ -15,6 +15,6 @@ public class Andmetüübid {
         System.out.println(tore);
         System.out.println(headaega);
 
-        boolean
+
     }
 }
