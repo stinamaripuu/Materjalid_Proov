@@ -9,10 +9,15 @@ public class Andmetüübid {
         Double nr3 = 2.2;
 
 
+
+
+/*
         String tervitus = "Tere";
         String ok = "aaaa";
         String tore = "a";
         String headaega = "Tsau :)";
+
+ */
         /*
         System.out.println(tervitus);
         System.out.println(ok);
@@ -20,8 +25,8 @@ public class Andmetüübid {
         System.out.println(headaega);
 
          */
-
-        List<String> m1 = new ArrayList<String>();
+/*
+        List<String> m1 = new ArrayList<>();
         //["pliiats", "pastakas", "Tere!", "Mis", "on", "sinu", "nimi", "?"];
         m1.add("pliiats");
         m1.add("pastakas");
@@ -33,6 +38,8 @@ public class Andmetüübid {
         m1.add("?");
 
         System.out.println(m1);
+
+ */
 
     }
 }
